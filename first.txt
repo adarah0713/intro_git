@@ -1,3 +1,6 @@
 git no practice yarimasu
 
 henkou_1
+
+・git add
+・git commit
